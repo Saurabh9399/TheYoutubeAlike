@@ -1,4 +1,5 @@
 .recommendedVideos{
     flex:0.8;
     border:1px solid black;
+    background-color: #f9f9f9;
 }
